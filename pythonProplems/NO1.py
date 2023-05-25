@@ -1,5 +1,5 @@
 
-Write an int method cube () that returns the cube of the value inserted.
+#Write an int method cube () that returns the cube of the value inserted.
 
 def cube(x):
     """
