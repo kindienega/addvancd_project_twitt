@@ -1,3 +1,6 @@
+
+Write an int method cube () that returns the cube of the value inserted.
+
 def cube(x):
     """
     Returns the cube of the given value.
