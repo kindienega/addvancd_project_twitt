@@ -12,4 +12,5 @@ width = 10.0
 
 area = triangle(height, width)
 
+
 print(f"The area of a triangle with height {height} and width {width} is: {area}")
